@@ -55,7 +55,7 @@ OpenCV • MediaPipe • Real-Time Inference • Object Detection
 
 - Modular RAG framework reducing LLM hallucination rates by grounding generation in retrieved evidence
 - Optimised chunking strategies, embedding dimensionality, and cosine similarity for enterprise QA
-- 🔗 [github.com/sakshamdoshi/rag-from-scratch](https://github.com/sakshamdoshi/rag-from-scratch)
+- 🔗 [github.com/sakshamdoshi/rag-from-scratch](https://github.com/Sak951/LAW-BOT)
 
 ---
 
@@ -64,7 +64,7 @@ OpenCV • MediaPipe • Real-Time Inference • Object Detection
 
 - GPT-style decoder-only transformer: multi-head self-attention, causal masking, positional encoding
 - Trained on curated datasets, deployed on HuggingFace Hub (validation loss: 8.23)
-- 🔗 [github.com/Sak951/I-am-still-learning](https://github.com/Sak951/I-am-still-learning) | 🤗 [HuggingFace](https://huggingface.co/sakshamdoshi)
+- 🔗 [github.com/Sak951/I-am-still-learning](https://github.com/Sak951/I-am-still-learning) | 🤗 [HuggingFace]((https://huggingface.co/Sak2004/I-am-still-learning))
 
 ---
 
@@ -115,7 +115,6 @@ OpenCV • MediaPipe • Real-Time Inference • Object Detection
 - 🔗 LinkedIn: [linkedin.com/in/sakshamdoshi](https://linkedin.com/in/sakshamdoshi)
 - 💻 GitHub: [github.com/Sak951](https://github.com/Sak951)
 - 🌍 Portfolio: [sakshamdoshi.lovable.app](https://sakshamdoshi.lovable.app)
-- 📄 Research: [IEEE ICIECT 2025](https://iciect.org)
 
 ---
 
